@@ -1,9 +1,6 @@
 ### Hi there 👋
+My name is MARYAM KHAN!
 
-
-**maryambkhan/maryambkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ![Profile](assets/images/profile.PNG)
 
 - 🔭 I’m currently working on a tailwindcss project...
