@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **maryambkhan/maryambkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for dev opportunities...
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/maryam-khan-214a44232)...
 - ⚡ Fun fact: I love cooking and spending time with my family...
--->
+
